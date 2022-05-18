@@ -1,0 +1,5 @@
+- Certidoes para consulta
+  - Consulta de certidao
+    Dados dos proprietarios, cpf, rg, como adiquiriram
+  - Levantamento das pessoas
+    Debitos trabalhistas? Inscrito no cadastro nacional de indisponibilidade de bens?
