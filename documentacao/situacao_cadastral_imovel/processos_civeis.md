@@ -1,7 +1,7 @@
 Dono | Situacao
 ---- | ----
 [Marly de Sá Travassos](processos_civeis_federal/marly.pdf)          | ok 
-[Fernando Antonio Travassos](processos_civeis_federal/fernando.pdf)  | contam debitos, mas conforme o CTN este doc tem o mesmo efeito de uma cert negativa
+[Fernando Antonio Travassos](processos_civeis_federal/fernando.pdf)  | ok
 [Rita de Cássia Sá e Freitas](processos_civeis_federal/rita.pdf)     | ok
 [Luiz Humberto Castro de Freitas](processos_civeis_federal/luiz.pdf) | ok
 [Mirela Barreto de Sá Novis](processos_civeis_federal/mirela.pdf)    | ok
