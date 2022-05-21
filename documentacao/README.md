@@ -10,4 +10,4 @@
 
 # Situacao Cadastral dos atuais donos
   - [Creditos tributarios federais e divida ativa](situacao_cadastral_imovel/debitos_tributarios_federais_e_divida_ativa_uniao.md)
-  - [Processos Civeis](situacao_cadastral_imovel/debitos_tributarios_federais_e_divida_ativa_uniao.md)
+  - [Processos Civeis](situacao_cadastral_imovel/processos_civeis.md)
