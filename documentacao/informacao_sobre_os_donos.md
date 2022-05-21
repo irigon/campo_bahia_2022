@@ -56,7 +56,7 @@
     <td class="tg-5f3o" rowspan="2">25%</td>
     <td class="tg-blwt" rowspan="2">25%</td>
     <td class="tg-blwt" rowspan="2">25%</td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-ufsl">Fernando Antonio Travassos</td>
@@ -65,7 +65,7 @@
     <td class="tg-ufsl">132.775.295-68</td>
     <td class="tg-ufsl">0119190788 SSP-BA</td>
     <td class="tg-ufsl"> </td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-za14">Rita de Cássia Sá e Freitas</td>
@@ -79,7 +79,7 @@
     <td class="tg-luvl" rowspan="2">25%</td>
     <td class="tg-luvl">25%</td>
     <td class="tg-9wq8">25%</td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-za14">Luiz Humberto Castro de&nbsp;&nbsp;&nbsp;Freitas</td>
@@ -90,7 +90,7 @@
     <td class="tg-za14"> </td>
     <td class="tg-6l0w">0%</td>
     <td class="tg-9wq8">0%</td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-ufsl">Mirela Barreto de Sá Novis</td>
@@ -104,7 +104,7 @@
     <td class="tg-5f3o" rowspan="2">25%</td>
     <td class="tg-blwt" rowspan="2">25%</td>
     <td class="tg-blwt" rowspan="2">25%</td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-ufsl">Andre Fontes Novis</td>
@@ -113,7 +113,7 @@
     <td class="tg-ufsl">466.647.005-06</td>
     <td class="tg-ufsl">0273387626 SSP-BA</td>
     <td class="tg-ufsl"> </td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-za14">Angella Maria Sá Barbosa</td>
@@ -150,7 +150,7 @@
     <td class="tg-blwt" rowspan="2">0%</td>
     <td class="tg-blwt" rowspan="2">0%</td>
     <td class="tg-5f3o" rowspan="2">12.5%</td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-ufsl">Marcela Dalcon de Freitas</td>
@@ -159,7 +159,7 @@
     <td class="tg-ufsl">013.005.575-16</td>
     <td class="tg-ufsl">932190596</td>
     <td class="tg-ufsl"> </td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
   <tr>
     <td class="tg-za14">Marco Antonio Barbosa Filho</td>
@@ -173,7 +173,7 @@
     <td class="tg-9wq8">0%</td>
     <td class="tg-9wq8">0%</td>
     <td class="tg-luvl">12.5%</td>
-    <td class="tg-qtwf"> </td>
+    <td class="tg-18q7">ok</td>
   </tr>
 </tbody>
 </table>
