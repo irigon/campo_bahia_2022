@@ -9,6 +9,6 @@ Dono | Situacao
 Angella Maria Sá Barbosa    | falta data de nascimento
 Marco Antonio Barbosa       | falta data de nascimento
 [Bruno de Sá Barbosa](verificacao_de_CPF/bruno_de_sa_barbosa.pdf)            | ok
-[Marcela Dalcon de Freitas](verificacao_de_CPF/marcela_barreto_de_sa_novis.pdf)    | ok
+[Marcela Dalcon de Freitas](verificacao_de_CPF/marcela_dalcon_de_freitas.pdf)    | ok
 [Marco Antonio Barbosa Filho](verificacao_de_CPF/marco_antonio_barbosa_filho.pdf) | ok
 
