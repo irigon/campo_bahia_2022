@@ -1,3 +1,6 @@
+# Todo:
+  - Como consultar se algum dos vendedores estao inscritos no cadastro nacional de indisponibilidade de bens?
+
 # Donos
   - [Informacoes sobre os donos](informacao_sobre_os_donos.md)
 
@@ -12,3 +15,4 @@
   - [Creditos tributarios federais e divida ativa](situacao_cadastral_imovel/debitos_tributarios_federais_e_divida_ativa_uniao.md)
   - [Processos Civeis](situacao_cadastral_imovel/processos_civeis.md)
   - [Processos Criminais](situacao_cadastral_imovel/processos_criminais.md)
+  - [Dividas trabalhistas](situacao_cadastral_imovel/dividas_trabalhistas.md)
