@@ -7,7 +7,7 @@ Dono | Situacao
 [Mirela Barreto de Sá Novis](dividas_trabalhistas/mirela.pdf)    | ok
 [Andre Fontes Novis](dividas_trabalhistas/andre.pdf)             | ok
 [Angella Maria Sá Barbosa](dividas_trabalhistas/angella.pdf)     | ok
-Marco Antonio Barbosa                                           | precisa infos adicionais; homonimia
+[Marco Antonio Barbosa](dividas_trabalhistas/marco_antonio_barbosa.pdf) | ok
 [Bruno de Sá Barbosa](dividas_trabalhistas/bruno.pdf)            | ok
 [Marcela Dalcon de Freitas](dividas_trabalhistas/marcela.pdf)    | ok
 [Marco Antonio Barbosa Filho](dividas_trabalhistas/marco_antonio_barbosa_filho.pdf) | ok
