@@ -12,6 +12,7 @@
     - Obtidos de [certidoes de regularidade fiscal](https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal)
 
 # Situacao Cadastral dos atuais donos
+  - [Situacao CPF](situacao_cadastral_imovel/verificacao_de_CPF.md)
   - [Creditos tributarios federais e divida ativa](situacao_cadastral_imovel/debitos_tributarios_federais_e_divida_ativa_uniao.md)
   - [Processos Civeis](situacao_cadastral_imovel/processos_civeis.md)
   - [Processos Criminais](situacao_cadastral_imovel/processos_criminais.md)
