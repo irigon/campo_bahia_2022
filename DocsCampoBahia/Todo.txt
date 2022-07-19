@@ -2,4 +2,10 @@
   - Consulta de certidao
     Dados dos proprietarios, cpf, rg, como adiquiriram
   - Levantamento das pessoas
-    Debitos trabalhistas? Inscrito no cadastro nacional de indisponibilidade de bens?
+    Debitos trabalhistas? 
+    
+
+
+Perguntas: 
+
+  - Como consultar se algum dos vendedores estao inscritos no cadastro nacional de indisponibilidade de bens?
